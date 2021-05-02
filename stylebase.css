@@ -1,0 +1,49 @@
+body {
+	background-color: #666666;
+	background-image:  url(bg.bmp);
+	background-repeat: repeat;
+	color: #000000;
+	margin-top: 16px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding: 0;
+  -ms-overflow-x: hidden;
+  scrollbar-base-color: #eee;
+  scrollbar-face-color: #ddd;
+  scrollbar-3dlight-color: #fff;
+  scrollbar-highlight-color: #fff;
+  scrollbar-track-color: #aaa;
+  scrollbar-arrow-color: #000;
+  scrollbar-shadow-color: #bbb;
+  scrollbar-dark-shadow-color: #444;
+  background-color: #eeeeee;
+}
+
+.borders {
+border: solid white 8px;
+border-radius: 5px;
+border-collapse: separate;
+box-shadow: 0px 10px 50px black;
+background-color: white;
+margin: auto;
+}
+
+.listing {
+border-color: #ffffff;
+border-style: outset;
+}
+
+.spacing {
+	background-color: #000;
+}
+
+.sidebarspace, #sidebar {
+  background-image: url("/hd/images/sidebardecorationextend.jpg");
+  background-repeat: repeat-x;
+}
+
+.box {
+border: 4px #ffffff outset;
+background-color: #aaa;
+}
