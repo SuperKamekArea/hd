@@ -109,3 +109,7 @@ background: linear-gradient(0deg,#000000 0%, #3c3c3c 30%, #4e4e4e 60%, #ffffff 9
   visibility: visible;
   opacity: 1;
 }
+
+.sidebarframe {
+ height: 720px;
+}
